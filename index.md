@@ -1,6 +1,6 @@
 Hallo meine Lieblinge,
 
-wenn ihr das lest, bin ich hoffentlich schon im Zug nach Hause!
+wenn ihr das lest, bin ich hoffentlich schon im Zug nach Hause! Dies ist daher die letzte Nachricht.
 
 Ich freue mich wahnsinnig, bald wieder bei euch zu sein. Vermutlich schlaft ihr nachher schon, aber das ist ja egal! 
 
