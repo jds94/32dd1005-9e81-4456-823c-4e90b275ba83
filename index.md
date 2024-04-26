@@ -15,14 +15,14 @@ Wisst ihr noch, wo wir an diesem Tag hingefahren sind? Das war ganz am Anfang un
 
 Ich liebe dich für immer und ewig! (... und noch viel länger ❤️)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tR-qQcNT_fY?si=yLp9l_LdwJmcPQ74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="300" height="169" src="https://www.youtube.com/embed/tR-qQcNT_fY?si=yLp9l_LdwJmcPQ74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Song für Edda
 
 Kleine Eddamaus, für dich heißt es gleich: ab ins Bett!
 Und was machen wir vorher?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TaUKrv5hSOA?si=NPpLQtFerx0xPIqu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="300" height="169" src="https://www.youtube.com/embed/TaUKrv5hSOA?si=NPpLQtFerx0xPIqu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ***
 
